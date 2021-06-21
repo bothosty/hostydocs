@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Test.](README.md)
+* [Что это за страница?](README.md)
 
